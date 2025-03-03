@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\BP_Weapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\ShootingTask_GAS\\.vscode\\compileCommands_ShootingTask_GAS\\ShootingTask_GAS.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\BP_Weapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\ShootingTask_GAS\\.vscode\\compileCommands_ShootingTask_GAS\\ShootingTask_GAS.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\ShootingTask_GAS.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\ShootingTask_GAS\\.vscode\\compileCommands_ShootingTask_GAS\\ShootingTask_GAS.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\ShootingTask_GAS.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\ShootingTask_GAS\\.vscode\\compileCommands_ShootingTask_GAS\\ShootingTask_GAS.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\ShootingTask_GAS.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\ShootingTask_GAS\\.vscode\\compileCommands_ShootingTask_GAS\\ShootingTask_GAS.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	}
+]
