@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS\\ShootingTask_GAS.Build.cs",
-		"C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GAS.Target.cs",
-		"C:\\Unreal\\Projects\\ShootingTask_GAS\\Source\\ShootingTask_GASEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
