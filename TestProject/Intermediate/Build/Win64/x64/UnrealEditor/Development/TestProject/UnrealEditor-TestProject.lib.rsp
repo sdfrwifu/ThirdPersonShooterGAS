@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\TestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\GASCharacter.gen.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\MyAssetManager.gen.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\TestProject.init.gen.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\GASCharacter.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\MyAssetManager.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\TestProject.cpp.obj"
+"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\Default.rc2.res"
+/OUT:"C:\Unreal\Projects\TestProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestProject\UnrealEditor-TestProject.lib"
