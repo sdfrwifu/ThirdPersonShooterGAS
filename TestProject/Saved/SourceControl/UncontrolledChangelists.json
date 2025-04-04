@@ -48,6 +48,8 @@
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/SniperAbilities/FirstAbility/GE_IsFirstSniperAbilityActive.uasset",
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/SniperAbilities/SecondAbility/GA_SecondSniperAbility.uasset",
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/GA_TakeDamage.uasset",
+				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/CharacterStates/GE_IsScoping.uasset",
+				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/CharacterStates/GE_CanAim.uasset",
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/SniperAbilities/GA_FirstSniperAbility.uasset",
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/SniperAbilities/GE_IsFirstSniperAbilityActive.uasset",
 				"C:/Unreal/Projects/ThirdPersonShooterGAS/TestProject/Content/CombatSystem/GameplayAbilities/SniperAbilities/GE_FirstSniperAbilityCooldown.uasset",
