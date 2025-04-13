@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\GASCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\GASCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\MyAssetManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\MyAssetManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\TestProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\TestProject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal\\Projects\\TestProject\\Source\\TestProject\\TestProject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject\\TestProject.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	}
+]
