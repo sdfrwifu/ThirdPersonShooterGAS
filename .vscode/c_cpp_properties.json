@@ -7,7 +7,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_TestProject.json"
+                "C:\\Unreal\\Projects\\ThirdPersonShooterGAS\\.vscode\\compileCommands_TestProject.json"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Unreal\\Projects\\TestProject\\.vscode\\compileCommands_Default.json"
+                "C:\\Unreal\\Projects\\ThirdPersonShooterGAS\\.vscode\\compileCommands_Default.json"
             ]
         }
     ],
